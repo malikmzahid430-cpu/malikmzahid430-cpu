@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,60:16161D,100:2A2418&height=210&section=header&text=Muhammad%20Zahid&fontSize=50&fontColor=D4AF37&fontAlignY=38&desc=AI%20Agents%20%C2%B7%20Web%20Scraping%20%C2%B7%20Lead-Gen%20Automation&descSize=17&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" alt="Muhammad Zahid" />
+<img src="./assets/banner.svg" width="100%" alt="Muhammad Zahid · AI Agents, Web Scraping & Lead-Gen Automation" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=C9A227&center=true&vCenter=true&width=640&lines=I+build+AI+agents+that+automate+outreach;I+turn+websites+into+clean%2C+structured+data;I+design+lead-generation+systems+that+scale" alt="Intro" />
 
@@ -88,7 +88,3 @@ I'm a **Computer Science student at Quaid-i-Azam University** and a freelancer w
 <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-16161D?style=for-the-badge&logo=gmail&logoColor=D4AF37" /></a>
 -->
 </p>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2418,40:16161D,100:0B0B0F&height=110&section=footer" width="100%" alt="" />
-</div>
